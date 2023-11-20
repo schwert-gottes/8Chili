@@ -80,10 +80,5 @@ Easily integrate professional voice-overs to elevate your storytelling.
 
 ## Contact
 
-If you have any questions, feedback regarding this project or would like to see the code structure, feel free to reach out to me:
-
-
-- LinkedIn: [SaifUllah Alam](https://www.linkedin.com/in/schwert-gottes/)
-- Upwork: [SaifUllah Alam](https://www.upwork.com/freelancers/saifullahalam2)
-
+If you have any questions, feedback regarding this project or would like to see the code structure, feel free to reach out here.
 I'd be happy to hear from you and discuss anything related to this project or any potential collaborations!!
